@@ -1,0 +1,16 @@
+# This is a generated file; do not edit or check into version control.
+camera=/Users/tasneem_abdullah/Desktop/GPFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.5.7+1/
+cloud_firestore=/Users/tasneem_abdullah/Desktop/GPFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.12.11/
+firebase_auth=/Users/tasneem_abdullah/Desktop/GPFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.15.0+1/
+firebase_core=/Users/tasneem_abdullah/Desktop/GPFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0+9/
+firebase_messaging=/Users/tasneem_abdullah/Desktop/GPFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-6.0.3/
+flutter_email_sender=/Users/tasneem_abdullah/Desktop/GPFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_email_sender-2.2.2/
+flutter_local_notifications=/Users/tasneem_abdullah/Desktop/GPFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-0.8.4+3/
+flutter_ringtone_player=/Users/tasneem_abdullah/Desktop/GPFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_ringtone_player-1.0.3/
+flutter_vlc_player=/Users/tasneem_abdullah/Desktop/GPFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_vlc_player-3.0.2/
+get_ip=/Users/tasneem_abdullah/Desktop/GPFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/get_ip-0.4.0/
+hexcolor=/Users/tasneem_abdullah/Desktop/GPFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/hexcolor-1.0.1/
+open_file=/Users/tasneem_abdullah/Desktop/GPFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/open_file-2.1.1/
+url_launcher=/Users/tasneem_abdullah/Desktop/GPFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.2.7/
+video_player=/Users/tasneem_abdullah/Desktop/GPFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-0.10.2+5/
+wakelock=/Users/tasneem_abdullah/Desktop/GPFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.1.3/
