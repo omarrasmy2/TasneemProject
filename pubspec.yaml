@@ -35,7 +35,6 @@ dependencies:
   open_file: any
   firebase_core: any
   flutter_ringtone_player: any
-  regexed_validator: any
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -44,11 +43,12 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: any
 
 flutter_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "photos/logo.png"
+  image_path: "photos/logo1.png"
 
 
 # For information on the generic Dart part of this file, see the
@@ -64,6 +64,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
+    - videos/BigBuckBunny.mp4
     - photos/bullying-shutterstock-site.jpeg
     - photos/Bullying.jpg
     - photos/Psych-Professionals-say-no-to-bullying.png
